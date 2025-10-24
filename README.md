@@ -2,7 +2,7 @@ Accounting Ledger App (Java CLI)
 
 Welcome to the Accounting Ledger App, a  Java-based Command Line Interface (CLI)  that helps users track financial transactions — deposits, payments, and custom reports — stored in a persistent `transactions.csv` file.
 
-This project was built as my Capstone 1 for the *Java Development Fundamentals* module in YearUp. It demonstrates clean OOP design, real-world logic, and user-focused CLI interaction.
+t demonstrates clean OOP design, real-world logic, and user-focused CLI interaction.
 
 
 
